@@ -4,4 +4,6 @@ This is the online repository for the paper *Chatbots in Education: A Discussion
 
 You can find the two datasets (main, critical) in folder *data*.
 
-The codebook and additional figures and information can be found in the PDF file.
+The codebook can be found in Coedbook.pdf.
+
+Further analyses (as referenced in the paper but also additional ones) can be found in AddtitionalAnalysis.pdf.
